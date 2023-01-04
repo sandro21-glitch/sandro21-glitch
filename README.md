@@ -7,9 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandroop21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandroop21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandro-19929a1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandro-19929a1b7" height="30" width="40" /></a>
-<a href="https://fb.com/sandro papidze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandro papidze" height="30" width="40" /></a>
 <a href="https://instagram.com/sandropapidz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandropapidz3" height="30" width="40" /></a>
 </p>
 
