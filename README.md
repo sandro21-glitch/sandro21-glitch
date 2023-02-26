@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandro</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **vipsandro11@gmail.com**
 
