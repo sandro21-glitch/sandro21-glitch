@@ -13,6 +13,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandro21-glitch&show_icons=true&locale=en&layout=compact" alt="sandro21-glitch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandro21-glitch&" alt="sandro21-glitch" /></p>
 
 
