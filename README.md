@@ -43,6 +43,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sandro21-glitch/sandro21-glitch/output/snake.svg" alt="Snake animation" />
-
 ###
