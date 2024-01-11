@@ -48,4 +48,4 @@
 <br clear="both">
 
 ###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandro21-glitch&" alt="sandro21-glitch" /></p>
+
