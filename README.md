@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning ReactJS, with a side of TypeScript, Redux Toolkit, React Query, and more. 🚀</p>
+<p align="left">- 📚 I'm currently learning backend development using Node.js, Express, and MongoDB. 🚀</p>
 
 ###
 
